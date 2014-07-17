@@ -1,0 +1,15 @@
+{
+  "name": "claro-api",
+  "version": "0.0.1",
+  "description": "API con recursos de Claro Nicaragua",
+  "dependencies": {
+    "express": "^4.6.1",
+    "memjs": "^0.8.4",
+    "request": "^2.37.0",
+    "string": "^1.9.0"
+  },
+  "main": "api.js",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
