@@ -34,12 +34,12 @@ module.exports.is = function( req, res ){
 
               if( json.message !== undefined ){
 
-                response = {"status":false};
+                response = {"valid":false};
 
               }
               else{
 
-                response = {"status":true};
+                response = {"valid":true};
 
               }
 
